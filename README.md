@@ -1,7 +1,7 @@
 DESCRIPCION
 Un primer ejemplo sobre codigo para menu de navegacion en sitio responsivo en HTLM5, CSS3 y JavaScript
 
-# Menu de Navegacion en Sitio
+# Menu de Navegacion para web responsive
 
 Comenzando 🚀
 
