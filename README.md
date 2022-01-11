@@ -1,11 +1,11 @@
 DESCRIPCION
-Un primer ejemplo sobre codigo para menu de navegacion en sitio responsivo en HTLM5, CSS3 y JavaScript
+Ejemplo sobre codigo para menu de navegacion en sitio responsivo en HTLM5, CSS3 y JavaScript
 
-# Menu de Navegacion para web responsive
+# Menu de Navegacion ... web responsive
 
 Comenzando 🚀
 
-Link de prueba: 
+Link de prueba: https://ejpyszczek.github.io/Menu-Navegacion-/
 
 Herramientas requisitos 📋 HTML - CSS - JavaScript - Visual Studio Code
 
