@@ -9,7 +9,7 @@ Link de prueba: https://ejpyszczek.github.io/Menu-Navegacion-/
 
 Herramientas requisitos 📋 HTML - CSS - JavaScript - Visual Studio Code
 
-Versionado 📌 Primera Version
+Versionado 📌 Segunda Version
 
 Autores ✒️ Enrique J. Pyszczek
 
